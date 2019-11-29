@@ -1,0 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      搭建个人博客
+title:      搭建个人博客
+date:       2019-11-29 				# 时间
+author:     longzzzz						# 作者
+header-img: img/dg.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
+---
+
+## Hi
+>这是我的第一篇博客。
